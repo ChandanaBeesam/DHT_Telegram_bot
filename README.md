@@ -1,4 +1,1 @@
-# DHT_Telegram_bot
-This project is about creating a mini weather station using an ESP32 to record the temperature and humidity of the surroundings.
-A telegram bot,which is used as an user interface is created using the BOT FATHER 
-DHT 11 is interfaced with the ESP32 ,thus sending the recorded values of temperature  and humidity to the telegram bot.
+This project involves building a compact weather monitoring system using an ESP32 microcontroller. The main objective is to collect and transmit real-time temperature and humidity data from the environment to a user interface, which is implemented as a Telegram bot created via BOT FATHER. To achieve this, we integrate a DHT11 sensor with the ESP32 to capture temperature and humidity readings, which are then sent to the Telegram bot for user access and monitoring.
